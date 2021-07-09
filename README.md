@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @abhi250401
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking for internshsips
 
 
 <!---
