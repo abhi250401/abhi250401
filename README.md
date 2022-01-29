@@ -1,4 +1,4 @@
-## hi 
+## 👋 Hey
 i'm Abhishek Rai, a passionate self-taught full stack web developer from india.
 I aspire to be a software developer , 
 my passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
